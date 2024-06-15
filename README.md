@@ -12,12 +12,10 @@
 
 ## :wrench: Languages and Tools
 
-<h3 align="left">Languages and frameworks:</h3>
+##  Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,astro,tailwind,bootstrap,java,c,php,postgres,mysql,nodejs,sequelize,npm,express,git,spring,vite&theme=light)](https://skillicons.dev)
-<h3 align="left">Tools:</h3>
+##  Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,wordpress,postman,github,discord,netlify,vercel,vscode&perline=3&theme=light)](https://skillicons.dev)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugoromz&show_icons=true&locale=en" alt="hugoromz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoromz&" alt="hugoromz" /></p>
+## :wrench: Github
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugoromz&show_icons=true&locale=en" alt="hugoromz" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoromz&" alt="hugoromz" /></p>
