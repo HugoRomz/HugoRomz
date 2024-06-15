@@ -15,8 +15,8 @@
 
 ## :wrench: Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,astro,tailwind,bootstrap,java,c,php,postgres,mysql,nodejs,sequelize,npm,express,git,spring,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,astro,tailwind,bootstrap,java,c,php,postgres,mysql,nodejs,sequelize,npm,express,git,spring,vite&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,wordPress,postman,github,discord,netlify,vercel,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,wordpress,postman,github,discord,netlify,vercel,vscode&perline=3&theme=light)](https://skillicons.dev)
 
 
